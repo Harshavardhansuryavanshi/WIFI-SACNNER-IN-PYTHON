@@ -17,4 +17,9 @@ it scans the wifi properties :
 ![image alt](https://github.com/Harshavardhansuryavanshi/WIFI-SACNNER-IN-PYTHON/blob/7bac7b6c767d85b55737fc7cddc769dd503e84ad/wifi_scanner_result.png)
 
 
+Wifi Scanned Results given below :
+
+
+
+
 
